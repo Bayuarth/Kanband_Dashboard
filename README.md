@@ -8,7 +8,10 @@ Users sign in with the DummyJSON Auth API, then create, edit, delete, search, fi
 
 | Login | Dashboard | Kanban board |
 | --- | --- | --- |
-| ![Login](screenshots/01-login.png) | ![Dashboard](screenshots/02-dashboard.png) | ![Kanban](screenshots/03-kanban-board.png) |
+| <img width="2880" height="1800" alt="01-login" src="https://github.com/user-attachments/assets/abc00c01-1853-45b1-8e35-ca4ee691390d" />
+) | ![Dashboard](<img width="2880" height="1800" alt="02-dashboard" src="https://github.com/user-attachments/assets/36271c94-8504-4866-9763-20e4a30c4934" />
+) | ![Kanban](<img width="2880" height="2292" alt="03-kanban-board" src="https://github.com/user-attachments/assets/7f4978f5-68ef-4fa5-85cb-12b223e604a8" />
+) |
 
 More: [drag in progress](screenshots/04-dragging.png) · [My Tasks](screenshots/05-my-tasks.png) · [mobile login](screenshots/06-login-mobile.png) · [mobile dashboard](screenshots/07-dashboard-mobile.png)
 
